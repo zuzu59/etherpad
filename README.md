@@ -9,6 +9,10 @@ Une sorte de *tableau blanc* alpha numérique, idéal pour les brains stormings.
 
 https://etherpad.org/
 
+Pour tester sans installer ;-)
+
+https://beta.etherpad.org/
+
 
 # Moyens
 On fait *tourner* très simplement un serveur *Etherpad* dans un container *Docker*
@@ -44,7 +48,7 @@ Simplement ouvrir dans son browser:
 http://localhost:9001
 
 
-zf200122.1016
+zf200122.1141
 
 
 
