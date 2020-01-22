@@ -5,7 +5,7 @@ Un petit serveur Etherpad dans un container Docker
 
 Permet d'avoir une *page* partagée en édition à plusieurs !
 
-Une sorte de tableau blanc alpha numérique, idéal pour les brains stormings.
+Une sorte de *tableau blanc* alpha numérique, idéal pour les brains stormings.
 
 https://etherpad.org/
 
@@ -17,7 +17,7 @@ On fait *tourner* très simplement un serveur *Etherpad* dans un container *Dock
 # Installation
 
 ## Installation de Docker
-Attention, il faut avant installer Docker sur ça machine si ce n'est pas déjà fait, le plus simple c'est d'utiliser mon petit dépôt:
+ATTENTION, il faut avant installer Docker sur sa machine si ce n'est pas déjà fait, le plus simple c'est d'utiliser mon petit dépôt:
 
 ```
 git clone https://github.com/zuzu59/docker_demo.git
@@ -44,11 +44,7 @@ Simplement ouvrir dans son browser:
 http://localhost:9001
 
 
-zf200122.0936
-
-
-
-
+zf200122.1016
 
 
 
