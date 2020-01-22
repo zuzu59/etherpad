@@ -48,7 +48,18 @@ Simplement ouvrir dans son browser:
 http://localhost:9001
 
 
-zf200122.1141
+## Astuces !
+
+N'oubliez pas que vous pouvez créer autant de *tableaux*, *pages* que vous voulez avec une seule instance *Etherpad* et les utiliser directement depuis une *url*:
+
+```
+http://localhost:9001/p/toto
+http://localhost:9001/p/tutu
+http://localhost:9001/p/tata
+```
+
+
+zf200122.1147
 
 
 
